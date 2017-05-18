@@ -1,0 +1,5 @@
+directores=acciones.AccionDirectores
+generos=acciones.AccionGeneros
+fotogramas=acciones.AccionFotogramas
+bfotogramas=acciones.AccionBFotogramas
+registrar=acciones.AccionRegistrar

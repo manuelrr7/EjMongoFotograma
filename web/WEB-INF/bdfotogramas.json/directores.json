@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5907bf5475ccee10f1bbc2a5"), 
+    "nombre" : "Antoine Fuqua", 
+    "nacionalidad" : "FRA"
+}
+{ 
+    "_id" : ObjectId("5910e5b575ccee0cac6966ec"), 
+    "nombre" : "Fred Zinnemann", 
+    "nacionalidad" : "US"
+}
+{ 
+    "_id" : ObjectId("5910e60975ccee0cac6966ed"), 
+    "nombre" : "Geoffrey Wright", 
+    "nacionalidad" : "ESP"
+}
+{ 
+    "_id" : ObjectId("5910e7c975ccee0cac6966ee"), 
+    "nombre" : "Ridley Scott", 
+    "nacionalidad" : "ITA"
+}

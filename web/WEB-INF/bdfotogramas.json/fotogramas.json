@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5907c2b675ccee10f1bbc2a6"), 
+    "archivo" : "tirador.jpg", 
+    "titPelicula" : "El tirador", 
+    "anyoEstreno" : "2007", 
+    "directores" : "5907bf5475ccee10f1bbc2a5", 
+    "generos" : "5907bd7675ccee10f1bbc2a4"
+}
+{ 
+    "_id" : ObjectId("5910ea8675ccee0d2f00f98f"), 
+    "archivo" : "chacal.jpg", 
+    "titPelicula" : "Chacal", 
+    "anyoEstreno" : "1936", 
+    "directores" : "5910e5b575ccee0cac6966ec", 
+    "generos" : "5910e49c75ccee0cac6966eb"
+}
+{ 
+    "_id" : ObjectId("5910eb4f75ccee0d2f00f990"), 
+    "archivo" : "gladiator.jpg", 
+    "titPelicula" : "Gladiator", 
+    "anyoEstreno" : "2000", 
+    "directores" : "5910e7c975ccee0cac6966ee", 
+    "generos" : "5907bd7675ccee10f1bbc2a4"
+}
+{ 
+    "_id" : ObjectId("5911f7f1a7986c0cfb43778d"), 
+    "archivo" : "vecinos.jpg", 
+    "titPelicula" : "Vecinos invasores", 
+    "anyoEstreno" : "2006", 
+    "directores" : "5910e5b575ccee0cac6966ec", 
+    "generos" : "5910e44275ccee0cac6966e8"
+}
+{ 
+    "_id" : ObjectId("59136e0975ccee0af65125a9"), 
+    "archivo" : "amigo.jpg", 
+    "titPelicula" : "Mi amigo el gigante", 
+    "anyoEstreno" : "2017", 
+    "directores" : "5910e5b575ccee0cac6966ec", 
+    "generos" : "5910e44275ccee0cac6966e8"
+}
+{ 
+    "_id" : ObjectId("5913750475ccee09ca53c2e8"), 
+    "archivo" : "asalto.jpg", 
+    "titPelicula" : "Asalto final", 
+    "anyoEstreno" : "1941", 
+    "directores" : "5910e60975ccee0cac6966ed", 
+    "generos" : "5907bd7675ccee10f1bbc2a4"
+}

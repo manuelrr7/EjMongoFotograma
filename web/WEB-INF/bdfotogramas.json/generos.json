@@ -1,0 +1,20 @@
+{ 
+    "_id" : ObjectId("5907bd7675ccee10f1bbc2a4"), 
+    "nombre" : "Accion"
+}
+{ 
+    "_id" : ObjectId("5910e44275ccee0cac6966e8"), 
+    "nombre" : "Comedia"
+}
+{ 
+    "_id" : ObjectId("5910e47075ccee0cac6966e9"), 
+    "nombre" : "Drama"
+}
+{ 
+    "_id" : ObjectId("5910e48475ccee0cac6966ea"), 
+    "nombre" : "Intriga"
+}
+{ 
+    "_id" : ObjectId("5910e49c75ccee0cac6966eb"), 
+    "nombre" : "Policiaca"
+}
